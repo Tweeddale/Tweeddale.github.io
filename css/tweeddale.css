@@ -18,9 +18,10 @@ p {
   width: 400px;
   margin-bottom: 40px;
 }
-p span {
+p span a {
   color: #002d56;
   font-weight: bold;
+  text-decoration: none;
 }
 .contact {
   position: absolute;
